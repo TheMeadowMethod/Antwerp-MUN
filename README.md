@@ -2,8 +2,9 @@
 ##home
 - our board
 - to contact us
-- #instagram
-- #facebook
+- {instagram}(https://www.instagram.com/antwerpmun)
+- {facebook}([link)](https://www.facebook.com/AntwerpMUN)
+- {LinkedIn}(https://www.linkedin.com/antwerp-model-united-nations)
 - upcoming events
   
 ##Antwerp MUN passport
