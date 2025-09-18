@@ -2,8 +2,8 @@
 ##home
 - our board
 - to contact us
-- [instagram](https://www.instagram.com/antwerpmun)
-- [facevook](https://www.facebook.com/AntwerpMUN)
+- [Instagram](https://www.instagram.com/antwerpmun)
+- [Facebook](https://www.facebook.com/AntwerpMUN)
 - [LinkedIn](https://www.linkedin.com/antwerp-model-united-nations)
 - upcoming events
   
