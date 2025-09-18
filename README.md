@@ -2,7 +2,7 @@
 ##home
 - our board
 - to contact us
-- pcoming events
+- upcoming events
   
 ##Antwerp MUN passport
 
