@@ -2,6 +2,8 @@
 ##home
 - our board
 - to contact us
+- #instagram
+- #facebook
 - upcoming events
   
 ##Antwerp MUN passport
