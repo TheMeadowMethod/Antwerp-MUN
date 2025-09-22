@@ -19,13 +19,23 @@ secondary school students. Each year, we proudly continue this positive trend of
 innovation.
 
 ##home
-- our board
-- to contact us
+### our board
+
+### to contact us
+- mail: secgen@antwerpmun.be
 - [Instagram](https://www.instagram.com/antwerpmun)
 - [Facebook](https://www.facebook.com/AntwerpMUN)
 - [LinkedIn](https://www.linkedin.com/antwerp-model-united-nations)
-- upcoming events
-  
+### upcoming events
+openings event 8/10 - 7 pm
+lecture: cybersecurity & ai 23/10 - 7PM
+law meets diplomacy 4/11 - 7pm
+movie night 19/11 - 8 pm
+mun for dummies & negotiation workshop 2/12 - 6:30 pm
+2 study sessions 15 & 19/12
+mini simulation 9/12 - 9 pm
+kerst op ua 11/12
+
 ##Antwerp MUN passport
 At AntwerpMUN, we believe that every experience counts. That’s why we created the MUN Passport
 – a personal record of your journey with us.
