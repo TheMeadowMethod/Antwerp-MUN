@@ -26,6 +26,7 @@ innovation.
 - [Instagram](https://www.instagram.com/antwerpmun)
 - [Facebook](https://www.facebook.com/AntwerpMUN)
 - [LinkedIn](https://www.linkedin.com/antwerp-model-united-nations)
+
 ### upcoming events
 openings event 8/10 - 7 pm
 lecture: cybersecurity & ai 23/10 - 7PM
